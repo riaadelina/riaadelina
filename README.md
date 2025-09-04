@@ -1,5 +1,5 @@
 # Hello World! I'm Ria Adelina
-# ✮ About Me:
+
 I’m currently learning Laravel framework ☕︎<br>
 
 
