@@ -1,6 +1,6 @@
 # Hi I'm Ria
 
-I’m currently not studying anything <br>
+Not studying anything rn, fr <br>
 
 
 # ✮ Tech Stack:
