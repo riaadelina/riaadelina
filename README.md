@@ -1,6 +1,6 @@
-# Hello World! I'm Ria Adelina
+# Hi I'm Ria
 
-I’m currently learning Laravel framework ☕︎<br>
+I’m currently not studying anything ☕︎<br>
 
 
 # ✮ Tech Stack:
